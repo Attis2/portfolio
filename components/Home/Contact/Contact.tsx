@@ -24,7 +24,7 @@ const Contact = () => {
             <div className="flex items-center space-x-3 mb-4">
               <BiEnvelope className="w-9 h-9 text-pink-300" />
               <p className="text-xl font-bold text-gray-400">
-                medalikorchi2007@example.com
+                medalikorchi2007@gmail.com
               </p>
             </div>
             <div className="flex items-center space-x-3 mb-4">
