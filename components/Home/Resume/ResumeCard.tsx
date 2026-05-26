@@ -24,7 +24,7 @@ const ResumeCard = ({ Icon, role, date }: Props) => {
             {role}
           </h1>
           <p className="text-gray-300 text-sm sm:text-base pt-3">
-            I'll add descriptions for each of these here later on.
+            I&apos;ll add descriptions for each of these here later on.
           </p>
         </div>
       </div>
